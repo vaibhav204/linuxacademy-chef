@@ -1,0 +1,7 @@
+DEPENDENCIES
+  awesome_customers
+    path: .
+    metadata: true
+
+GRAPH
+  awesome_customers (0.1.0)
