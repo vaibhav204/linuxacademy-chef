@@ -1,11 +1,11 @@
-name 'apache'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures apache'
-long_description 'Installs/Configures apache'
-version '0.1.0'
-depends "php"
+name 			'apache'
+maintainer 		'The Authors'
+maintainer_email 	'you@example.com'
+license 		'all_rights'
+description 		'Installs/Configures apache'
+long_description 	'Installs/Configures apache'
+version 		'0.1.5'
+depends 		"php"
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link
